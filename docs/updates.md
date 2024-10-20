@@ -1,5 +1,7 @@
 # 更新记录
 
+<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=g019jze98F_xwauBiqOncL6sHzi3Bo50&jump_from=webapi&authKey=xhBC2BJV4ML4kbjf7nknzidptz4yxiiyxiFh2B4qL+4yZxylmenLd3mzIbikFhiR"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="MINECRAFTdddddgz粉丝群" title="MINECRAFTdddddgz粉丝群"></a>
+
 **日期按照Github Commit日期计算，而非Bilibili视频日期**
 
 **下载链接：[Releases](https://github.com/dddddgz05/gezhecraftmod/releases)**

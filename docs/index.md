@@ -10,6 +10,12 @@ hero:
     - theme: brand
       text: 更新记录
       link: /updates
+    - theme: alt
+      text: Github源代码
+      link: https://github.com/dddddgz05/gezhecraftmod
+    - theme: alt
+      text: QQ群
+      link: https://qm.qq.com/cgi-bin/qm/qr?k=g019jze98F_xwauBiqOncL6sHzi3Bo50&jump_from=webapi&authKey=xhBC2BJV4ML4kbjf7nknzidptz4yxiiyxiFh2B4qL+4yZxylmenLd3mzIbikFhiR
 
 features:
   - title: Feature A
